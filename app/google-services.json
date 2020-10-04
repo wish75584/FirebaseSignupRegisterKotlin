@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "358839287065",
+    "firebase_url": "https://fir-kotlin-signup.firebaseio.com",
+    "project_id": "fir-kotlin-signup",
+    "storage_bucket": "fir-kotlin-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358839287065:android:9afde53dc4f6b7cfe95988",
+        "android_client_info": {
+          "package_name": "com.stubborn.firebasekotlinsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358839287065-il64i8ars41gk5e7ivv7d79a9kf2t3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFObMla7IAKjwV5efEOex0mW_68CDcvXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358839287065-il64i8ars41gk5e7ivv7d79a9kf2t3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358839287065:android:6fbde97baf3ad7c3e95988",
+        "android_client_info": {
+          "package_name": "com.stubborn.firebaseloginkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358839287065-il64i8ars41gk5e7ivv7d79a9kf2t3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFObMla7IAKjwV5efEOex0mW_68CDcvXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358839287065-il64i8ars41gk5e7ivv7d79a9kf2t3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358839287065:android:438129706c140799e95988",
+        "android_client_info": {
+          "package_name": "com.stubborn.firebasesignupregisterkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358839287065-il64i8ars41gk5e7ivv7d79a9kf2t3n6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFObMla7IAKjwV5efEOex0mW_68CDcvXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358839287065-il64i8ars41gk5e7ivv7d79a9kf2t3n6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
